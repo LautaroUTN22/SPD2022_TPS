@@ -1,6 +1,6 @@
 # SPD2022_TPS
 
-Link Trabajo Tinkerkad TP1: 
+Link Trabajo Tinkercad TP1: 
 -
 
 Integrantes del grupo: 
