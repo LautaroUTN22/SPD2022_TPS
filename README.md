@@ -1,8 +1,9 @@
 # SPD2022_TPS
-
-Link Trabajo Tinkercad TP1: 
--
+# Grupo: Dinamic Duo
 
 Integrantes del grupo: 
 - Leonardo Chambi
 - Lautaro Baez
+
+TP_01| Binari Cronometer (Tinkercad): 
+- Link:
