@@ -6,4 +6,4 @@ Integrantes del grupo:
 - Lautaro Baez
 
 TP_01| Binary Chronometer (Tinkercad): 
-- Link:
+- Link: https://www.tinkercad.com/things/gomCprjd901-cronometro-binario-tp-1-spd-/editel
