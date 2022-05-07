@@ -5,5 +5,5 @@ Integrantes del grupo:
 - Leonardo Chambi
 - Lautaro Baez
 
-TP_01| Binari Cronometer (Tinkercad): 
+TP_01| Binary Chronometer (Tinkercad): 
 - Link:
