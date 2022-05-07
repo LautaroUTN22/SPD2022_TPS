@@ -1,5 +1,5 @@
 # SPD2022_TPS
-# Grupo: Dinamic Duo
+# Grupo: Dynamic Duo
 
 Integrantes del grupo: 
 - Leonardo Chambi
